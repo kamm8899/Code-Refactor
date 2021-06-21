@@ -13,8 +13,8 @@ I ran into a few style issues when refactoring the code, as the sections where w
 There were no contributors in this project, it was a sole project.
 
 # Finish Website Layout
-![ScreenShot](homework/Code-Refactor/assets/Screenshot1.png)
-![Screenshot](homework/Code-Refactor/assets/screenshot2.png)
+![ScreenShot](/assets/Screenshot1.png)
+![Screenshot](/assets/screenshot2.png)
 
 # Deployed Web Page Location
 This code was also deployed via Github Pages which can be found with the following URL
